@@ -902,20 +902,22 @@ Increased exhaust emissions (hydrocarbons) cause the pollution of water and air.
 
 ## Appendix Instruction Videos
 
-1. [Unpacking bags (0:49 min)](https://www.youtube.com/watch?v=zxRh_Q_bZgk)
-2. [Inflating (1:39 min)](https://www.youtube.com/watch?v=oUOsj_yCgS0)
-3. [Assembling (2:42 min)](https://www.youtube.com/watch?v=gg9_5FmfOgU)
-4. [Installing (1:32 min)](https://www.youtube.com/watch?v=w_W0ky6Qbvc)
-5. [Rigging (2:42 min)](https://www.youtube.com/watch?v=_40ACnecYRE)
-6. [Rigging jib (2:16 min)](https://www.youtube.com/watch?v=xHW386UeXBk)
-7. [Apply reef (0:48 min)](https://www.youtube.com/watch?v=bDZj2TI22kE)
-8. [Preparing for launch (0:43 min)](https://www.youtube.com/watch?v=4Nv_KuIP8kc)
-9. [Daggerboard case seal (optional) (0:46 min)](https://www.youtube.com/watch?v=nhVdMYadaSI)
-10. [Rigging down (2:21 min)](https://www.youtube.com/watch?v=y6SufQDWvW4)
-11. [Taking down jib (1:22 min)](https://www.youtube.com/watch?v=AsbNRM45bjU)
-12. [De-installing and deflating (1:17 min)](https://www.youtube.com/watch?v=x4nvKOW4H1c)
-13. [Packing up boat (2:35 min)](https://www.youtube.com/watch?v=h08_MPSnieg)
-14. [Packing up sail-kit (1:36 min)](https://www.youtube.com/watch?v=3k8-jmAr4XQ)
+| No. | Video | Duration |
+|-----|-------|----------|
+| 1 | [Unpacking bags](https://www.youtube.com/watch?v=zxRh_Q_bZgk) | 0:49 min |
+| 2 | [Inflating](https://www.youtube.com/watch?v=oUOsj_yCgS0) | 1:39 min |
+| 3 | [Assembling](https://www.youtube.com/watch?v=gg9_5FmfOgU) | 2:42 min |
+| 4 | [Installing](https://www.youtube.com/watch?v=w_W0ky6Qbvc) | 1:32 min |
+| 5a | [Rigging](https://www.youtube.com/watch?v=_40ACnecYRE) | 2:42 min |
+| 5b | [Rigging jib](https://www.youtube.com/watch?v=xHW386UeXBk) | 2:16 min |
+| 5c | [Apply reef](https://www.youtube.com/watch?v=bDZj2TI22kE) | 0:48 min |
+| 6a | [Preparing for launch](https://www.youtube.com/watch?v=4Nv_KuIP8kc) | 0:43 min |
+| 6b | [Daggerboard case seal (optional)](https://www.youtube.com/watch?v=nhVdMYadaSI) | 0:46 min |
+| 7a | [Rigging down](https://www.youtube.com/watch?v=y6SufQDWvW4) | 2:21 min |
+| 7b | [Taking down jib](https://www.youtube.com/watch?v=AsbNRM45bjU) | 1:22 min |
+| 8 | [De-installing and deflating](https://www.youtube.com/watch?v=x4nvKOW4H1c) | 1:17 min |
+| 9 | [Packing up boat](https://www.youtube.com/watch?v=h08_MPSnieg) | 2:35 min |
+| 10 | [Packing up sail-kit](https://www.youtube.com/watch?v=3k8-jmAr4XQ) | 1:36 min |
 
 ## Appendix Warranty
 

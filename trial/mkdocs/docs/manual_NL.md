@@ -200,7 +200,7 @@ De installatie van de buitenboordmotor en verdere bedieningsinstructies worden b
 | 6 | Giekeind | 23 | Mastvoet |
 | 7 | Schootblok | 24 | Mastvoethouder |
 | 8 | Schoot | 25 | D-ring/sleepoog |
-| 9 | Schootblok met snelkoppeling | 26 | Steekzwaard |
+| 9 | Schootblok met snelkoppeling | 26 | Midzwaard |
 | 10 | Klitteband | 27 | Zwaardkast |
 | 11 | Giek klem | 28 | Flexibele zwaardkast |
 | 12 | Achterste giekdeel | 29 | Zelfozer |
@@ -333,12 +333,12 @@ Uw DinghyGo wordt geleverd met een zeiltuig (sailkit), bestaande uit:
 
 * Zitting (Orca 375 inclusief 2 fokkeschootklemmen) / zwaardkast
 * Mastvoethouder
-* Steekzwaard
+* Midzwaard
 * Roer
 * Sectionele mast
 * Sectionele giek
 * Zeil
-* Lijnenset (schoten, want met klemmen, harpsluiting, elastiek steekzwaard)
+* Lijnenset (schoten, want met klemmen, harpsluiting, elastiek midzwaard)
 * Zeiltuig tas
 
 De installatie en het optuigen van de zeiluitrusting wordt later in de handleiding inclusief de bijlagen beschreven.
@@ -441,10 +441,10 @@ De zeiltuig tas bevat de complete zeiluitrusting. Leg alle zeilonderdelen uit om
 #### 3.8.4 Vaarklaar maken
 
 * Bevestig het roer aan de spiegel. Zorg ervoor dat het roer is vergrendeld met de borgingsclip.
-* Schuif het steekzwaard door de zitting in de zwaardkast.
+* Schuif het midzwaard door de zitting in de zwaardkast.
 * Sluit de zelfozer.
 
-☝︎ Het steekzwaard moet met het stompe profiel gericht naar de boeg in de zwaardkast worden gestoken. Een nat steekzwaard maakt het gemakkelijker om in de zwaardkast te schuiven. Het meegeleverde elastiek, met de uiteinden tot een lus samengebonden, kan om het steekzwaard en de zitting worden gelegd om het steekzwaard in de gewenste positie te houden.
+☝︎ Het midzwaard moet met het stompe profiel gericht naar de boeg in de zwaardkast worden gestoken. Een nat midzwaard maakt het gemakkelijker om in de zwaardkast te schuiven. Het meegeleverde elastiek, met de uiteinden tot een lus samengebonden, kan om het midzwaard en de zitting worden gelegd om het midzwaard in de gewenste positie te houden.
 
 ☝︎ De overloop moet over de helmstok van het roer worden bevestigd.
 
@@ -464,7 +464,7 @@ Deze handleiding biedt geen zeiltechnieken en gaat ervan uit dat de bestuurder e
 #### 3.8.6 Aftuigen
 
 * Verwijder het roer van de spiegel door de borgingsclip in te drukken/los te maken.
-* Verwijder het steekzwaard uit de zwaardkast en zitting.
+* Verwijder het midzwaard uit de zwaardkast en zitting.
 * Strijk de fok door de val uit de klem te trekken, strijk de fok en maak de fok bovenkant voorlijk los van de carabijnhaak. Maak de carabijnhaak los van de vallus, trek de val uit de fokring op de mast en de boeg D-ring (Orca 375).
 * Ontkoppel het schootblok van de overloop door de snelkoppeling te openen.
 * Maak het want los van de D-rings aan beide kanten van de drijvers door het want uit de wantklemmen te bevrijden.
@@ -486,7 +486,7 @@ Deze handleiding biedt geen zeiltechnieken en gaat ervan uit dat de bestuurder e
 
 * Zorg ervoor dat alle onderdelen van het zeiltuig schoon en droog zijn. Onderdelen die in contact zijn geweest met (zout) zeewater moeten na gebruik onmiddellijk worden gewassen en gereinigd met zoet water.
 * Leg de zeiltuig tas op de grond met de opening naar u toe gericht.
-* Leg eerst het steekzwaard en het roer in de zeiltuig tas en stapel vervolgens de losse mast- en giekdelen erop.
+* Leg eerst het midzwaard en het roer in de zeiltuig tas en stapel vervolgens de losse mast- en giekdelen erop.
 * Voeg de losse roeispaan-onderdelen toe aan de tas.
 * Voeg de zitting en mastvoethouder toe aan de tas.
 * Voeg het gevouwen zeil, de zeillaten en de lijnenset toe aan de tas.
@@ -642,7 +642,7 @@ Wij raden sterk aan dat andere passagiers worden geïnstrueerd over de juiste st
 * Sluit de zelfozer van de spiegel.
 * Zorg ervoor dat de mastvoethouder, zitting / zwaardkast en overloop correct zijn gemonteerd.
 * Zorg ervoor dat de boot correct is opgetuigd en dat de mast in de mastvoet is geplaatst en met het veerslot onder het dek is vergrendeld.
-* Zorg ervoor dat het steekzwaard in de zwaardkast is geplaatst met de stompe kant gericht naar de boeg.
+* Zorg ervoor dat het midzwaard in de zwaardkast is geplaatst met de stompe kant gericht naar de boeg.
 * Zorg ervoor dat het roer in de spiegel is vergrendeld en dat de helmstok in de roerkop is bevestigd.
 * Zorg ervoor dat de overloop is bevestigd aan de overloopogen, dat deze over de helmstok gaat en is bevestigd aan het schootblok met de snelkoppeling.
 * Zorg ervoor dat het want stevig is bevestigd met de wantharpsluiting aan het bovenste mastoog en aan de D-rings aan beide zijden van de drijvers met de wantklemmen.
@@ -764,7 +764,7 @@ Uw DinghyGo is ontworpen om te werken met meer dan één luchtkamer. Daarom beho
 
 ☝︎ Strandlanding
 
-Het is niet aan te raden op het strand te varen of de boot over rotsen, zand, grind of verharding te slepen met de buitenboordmotor draaiend of met de complete zeiluitrusting operationeel. De boot en onderdelen van het zeiltuig zoals het steekzwaard en het roer kunnen beschadigd raken.
+Het is niet aan te raden op het strand te varen of de boot over rotsen, zand, grind of verharding te slepen met de buitenboordmotor draaiend of met de complete zeiluitrusting operationeel. De boot en onderdelen van het zeiltuig zoals het midzwaard en het roer kunnen beschadigd raken.
 
 ☝︎ Davits
 
@@ -933,7 +933,7 @@ Verhoogde uitlaatemissies (koolwaterstoffen) veroorzaken verontreiniging van wat
 
 **16.4.** De klant heeft recht op kosteloos herstel van constructiefouten van het product door de leverancier binnen de toepasselijke garantieperiode. De garantie dekt scheuren, porositeit, rot en delaminatie van het materiaal en loslatende naden. Eventuele transportkosten zijn voor rekening van de klant.
 
-**16.5.** De klant heeft recht op kosteloos herstel van constructiefouten en heeft recht op vervanging van gerelateerde componenten van het product, inclusief maar niet beperkt tot het zeiltuig, de zitting, de mastvoethouder, het steekzwaard, het roer, de handpomp en de tassen; dit geldt binnen de eerste 12 maanden van de geldige garantieperiode. Eventuele transportkosten zijn voor rekening van de klant.
+**16.5.** De klant heeft recht op kosteloos herstel van constructiefouten en heeft recht op vervanging van gerelateerde componenten van het product, inclusief maar niet beperkt tot het zeiltuig, de zitting, de mastvoethouder, het midzwaard, het roer, de handpomp en de tassen; dit geldt binnen de eerste 12 maanden van de geldige garantieperiode. Eventuele transportkosten zijn voor rekening van de klant.
 
 **16.6.** De volgende producten vallen niet onder de garantie van de leverancier: buitenboordmotoren, generatoren, accu's, automatische opblaasstystemen, klimaatsystemen, spiegelwielen en alle andere onderdelen en accessoires die niet zijn vervaardigd of geleverd door de leverancier.
 

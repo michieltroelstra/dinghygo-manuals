@@ -902,20 +902,22 @@ Erhöhte Abgasemissionen (Kohlenwasserstoffe) verursachen die Verschmutzung von 
 
 ## Anhang Anleitungsvideos
 
-1. [Auspacken Taschen (0:49 Min.)](https://youtu.be/PpUNTYxSFDY)
-2. [Aufblasen (1:39 Min.)](https://youtu.be/L0XLs3TuPF4)
-3. [Montieren (2:42 Min.)](https://youtu.be/bTWhhxxB430)
-4. [Installieren (1:32 Min.)](https://youtu.be/MeQv0KGgGLo)
-5. [Auftakeln (2:42 Min.)](https://youtu.be/kEO_EhRJCVo)
-6. [Auftakeln Fock (2:16 Min.)](https://youtu.be/D9vflH5E6gI)
-7. [Reff anwenden (0:48 Min.)](https://youtu.be/W3n8JRRiW9A)
-8. [Fertig machen zum Segeln (0:43 Min.)](https://youtu.be/yxdSrZQdeM0)
-9. [Schwertkasten abdichten — optional (0:46 Min.)](https://youtu.be/cKa4QFNhdGw)
-10. [Abtakeln (2:21 Min.)](https://youtu.be/1hIpWgxyzcg)
-11. [Abtakeln Fock (1:22 Min.)](https://youtu.be/2on8ob-2a3c)
-12. [Deinstallieren und Luft ablassen (1:17 Min.)](https://youtu.be/gU4sUKu-yZE)
-13. [Einpacken Boot (2:35 Min.)](https://youtu.be/LqRoUNQhI9E)
-14. [Einpacken Besegelung (1:36 Min.)](https://youtu.be/-kml_pO87J0)
+| Nr. | Video | Dauer |
+|-----|-------|-------|
+| 1 | [Auspacken Taschen](https://youtu.be/PpUNTYxSFDY) | 0:49 Min. |
+| 2 | [Aufblasen](https://youtu.be/L0XLs3TuPF4) | 1:39 Min. |
+| 3 | [Montieren](https://youtu.be/bTWhhxxB430) | 2:42 Min. |
+| 4 | [Installieren](https://youtu.be/MeQv0KGgGLo) | 1:32 Min. |
+| 5a | [Auftakeln](https://youtu.be/kEO_EhRJCVo) | 2:42 Min. |
+| 5b | [Auftakeln Fock](https://youtu.be/D9vflH5E6gI) | 2:16 Min. |
+| 5c | [Reff anwenden](https://youtu.be/W3n8JRRiW9A) | 0:48 Min. |
+| 6a | [Fertig machen zum Segeln](https://youtu.be/yxdSrZQdeM0) | 0:43 Min. |
+| 6b | [Schwertkasten abdichten — optional](https://youtu.be/cKa4QFNhdGw) | 0:46 Min. |
+| 7a | [Abtakeln](https://youtu.be/1hIpWgxyzcg) | 2:21 Min. |
+| 7b | [Abtakeln Fock](https://youtu.be/2on8ob-2a3c) | 1:22 Min. |
+| 8 | [Deinstallieren und Luft ablassen](https://youtu.be/gU4sUKu-yZE) | 1:17 Min. |
+| 9 | [Einpacken Boot](https://youtu.be/LqRoUNQhI9E) | 2:35 Min. |
+| 10 | [Einpacken Besegelung](https://youtu.be/-kml_pO87J0) | 1:36 Min. |
 
 ## Anhang Garantie
 

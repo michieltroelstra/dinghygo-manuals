@@ -117,7 +117,7 @@ De volgende termen zijn zeiltechnisch correct conform de bronhandleiding, maar v
 | **Achterlijkstrekker** (nr. 5) | Outhaul | Gangbaar in NL zeilterminologie? |
 | **Wantklem (zwevend)** (nr. 64) | Shroud cleat | "Zwevend" correct voor floating cleat? |
 | **Zelfozer** | Drain plug / self-bailer | Bronhandleiding gebruikt ook "zelflozer" — welke spelling is gangbaar? |
-| **Steekzwaard** | Daggerboard | Alternatief: "midzwaard"? |
+| **Midzwaard** | Daggerboard | ✅ Bevestigd: "midzwaard" (was: steekzwaard) |
 | **Neerhaler pin** (nr. 15) | Pinstop downhaul | "Neerhaler pin" of "pinneerhaler"? |
 | **Fokkeschoot oog** (nr. 74) | Jib clew | Correcte term? |
 
