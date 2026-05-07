@@ -200,10 +200,10 @@ Die Installation des Außenbordmotors und weitere Betriebsanweisungen sind im Ka
 | 6 | Baumende | 23 | Mastfuß |
 | 7 | Großschotblock mit Öse | 24 | Mastfußbrett |
 | 8 | Großschot | 25 | D-Öse |
-| 9 | Travellerblock mit Schnellverschluss | 26 | Mittelschwert (Steckschwert) |
+| 9 | Travellerblock mit Schnellverschluss | 26 | Mittelschwert |
 | 10 | Klettband | 27 | Festes Teil Schwertkasten |
 | 11 | Klemme Unterliekstrecker | 28 | Flexibles Teil Schwertkasten |
-| 12 | Hinteres Baumteil | 29 | Lenzer |
+| 12 | Hinteres Baumteil | 29 | Selbstlenzer |
 | 13 | Großschotblock | 30 | Ruder |
 | 14 | Vorderes Baumteil | 31 | Ruderbeschlag |
 | 15 | Baumniederholer-Stopp | 32 | Fingerling |
@@ -246,7 +246,7 @@ Die Installation des Außenbordmotors und weitere Betriebsanweisungen sind im Ka
 | **Nr.** | **Bezeichnung** | **Nr.** | **Bezeichnung** |
 |---|---|---|---|
 | 35 | Ventil Boden (Nr. 4) | 48 | Ruderdolle |
-| 36 | Ventil (Nr. 1) | 49 | Riemen/Paddel |
+| 36 | Ventil (Nr. 1) | 49 | Riemen |
 | 37 | Deck | 50 | Ventil (Nr. 3) |
 | 38 | Handgriff Vorschiff | 51 | Tragegriff (hinten) |
 | 39 | Mastkragen | 52 | Travellerleine |
@@ -333,7 +333,7 @@ Ihr DinghyGo wird mit einem Segelset geliefert, das Folgendes enthält:
 
 * Sitzbank (Orca 375 enthält 2 Fock-Klemmen) / Schwertkasten
 * Mastfußbrett
-* Mittelschwert (Steckschwert)
+* Mittelschwert
 * Ruder
 * Teilbarer Mast
 * Teilbarer Baum

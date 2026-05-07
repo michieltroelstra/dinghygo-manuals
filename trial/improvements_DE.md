@@ -35,7 +35,6 @@ Zur Überprüfung und Freigabe durch Michiel Troelstra / Aquacrafts B.V.
 | T10 | **„Großschot Block"** – zwei Wörter | „Großschot Block" | Korrekt zusammengeschrieben: „Großschotblock" |
 | T11 | **„Baumniederholer" vs. „Achterliekstrecker"** – inkonsistent | 4.8.6: „Löse der Achterliekstrecker und Baumniederholer" | Einheitlich „Unterliekstrecker" für den Unterliekstrecker (outhaul) und „Baumniederholer" für den Niederholer (downhaul) |
 | T12 | **„Sitz" für Sitzbank** – ungenau | „Sitz" (mehrfach) | „Sitzbank" als konsequente Bezeichnung für das Sitz-/Schwertkastenbrett |
-| T13 | **„Mastsicherungs-Knöpfe"** – korrekt in 2020 | Beibehalten ✓ | In neue BA übernommen |
 | T14 | **„Lenzer" für Ablassventil** | „Lenzer" (Nr. 29) – korrekt nautisch | Beibehalten ✓ |
 | T15 | **„Notstoppschalter" vs. „Notausschalter"** | „Notstoppschalter" – korrekt | Beibehalten ✓ |
 
@@ -80,14 +79,16 @@ Zur Überprüfung und Freigabe durch Michiel Troelstra / Aquacrafts B.V.
 
 ---
 
-## 6. Empfehlungen zur Überprüfung
+## 6. Terminologie-Entscheidungen (bestätigt)
 
-Die folgenden Begriffe sollten vor Freigabe der deutschen Version von einem Muttersprachler mit nautischem Hintergrund bestätigt werden:
+Die folgenden Begriffe wurden durch Aquacrafts B.V. bestätigt und sind in der v5.0-BA durchgehend angewendet:
 
-- **„Mittelschwert" vs. „Steckschwert"** – beide Begriffe werden im deutschen Segelsport verwendet. In der neuen BA wird „Mittelschwert (Steckschwert)" verwendet. Empfehlung: nur „Mittelschwert" (gebräuchlicher im Dinghysegeln).
-- **„Travellerleine"** für „bridle" – korrekt im DinghyGo-Kontext (am Spiegel befestigt). Im normalen Segelsport ist der „Traveller" eine Schiene; hier ist es eine Leine. Alternativ: „Großschotführungsleine" oder „Spiegel-Traveller-Leine".
-- **„Riemen" für „oar"** – im norddeutschen Sprachraum üblich; im süddeutschen Raum wird oft „Ruder" für das Ruderblatt (Paddel) verwendet. Da „Ruder" im Boot auch das Steuerruder bezeichnet, ist „Riemen" eindeutiger.
-- **„Selbstlenzventil" vs. „Selbstlenzer"** – beide Begriffe sind korrekt. Die 2020-BA verwendet „Selbstlenzventil", die neue BA „Selbstlenzer" (kürzer, gebräuchlicher).
+| Begriff | Entscheidung | Anmerkung |
+|---|---|---|
+| **Mittelschwert** | ✅ Bestätigt — ausschließlich „Mittelschwert" | „Steckschwert" entfernt; „Mittelschwert" ist im Dinghysegeln gebräuchlicher |
+| **Travellerleine** | ✅ Bestätigt | Bezeichnet die am Spiegel befestigte Leine (bridle); konsistent in der gesamten BA |
+| **Riemen** | ✅ Bestätigt — ausschließlich „Riemen" | „Paddel" entfernt; „Riemen" ist eindeutiger (kein Verwechslungsrisiko mit dem Steuerruder) |
+| **Selbstlenzer** | ✅ Bestätigt — ausschließlich „Selbstlenzer" | Kürzer und gebräuchlicher als „Selbstlenzventil"; Legende Nr. 29 ebenfalls aktualisiert |
 
 ---
 

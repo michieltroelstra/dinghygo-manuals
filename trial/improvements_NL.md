@@ -123,10 +123,11 @@ De volgende termen zijn zeiltechnisch correct conform de bronhandleiding, maar v
 
 ---
 
-## 7. Wat nog niet vertaald is
+## 7. Openstaande punten
 
 - **Typst PDF** (manual_NL.typ): nog niet aangemaakt. Vereist Typst-bronbestand voor PDF-uitvoer. Dit is stap d in de TRANSLATION_GUIDE.
-- **Git push**: wacht op goedkeuring van Michiel.
+- **Git push**: ✅ Gedaan (meerdere commits gepusht naar `michieltroelstra/dinghygo-manuals`, main branch).
+- **GitHub webhook**: nog niet geregistreerd in GitHub repo settings → auto-deploy werkt nog niet. Webhook-URL: `http://178.104.112.195:8000/webhooks/source/github/events/manual`
 
 ---
 
