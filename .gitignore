@@ -1,0 +1,17 @@
+# MkDocs build output — regenerated on deploy, never commit
+trial/mkdocs/site/
+
+# Typst temp files
+*.typst-backup
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Scratch / work files
+trial/betriebsanleitung_2020_extracted.txt
+trial/mkdocs/docs/manual-old.md

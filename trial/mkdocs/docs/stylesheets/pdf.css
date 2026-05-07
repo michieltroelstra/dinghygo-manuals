@@ -1,0 +1,75 @@
+/* ── PDF output styles (used by mkdocs-with-pdf / WeasyPrint) ── */
+
+@page {
+  size: A4 portrait;
+  margin: 25mm 20mm 25mm 20mm;
+
+  @bottom-center {
+    content: counter(page);
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 9pt;
+    color: #999;
+  }
+}
+
+/* First page (cover) — no page number */
+@page :first {
+  @bottom-center { content: none; }
+}
+
+/* Body text */
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10pt;
+  line-height: 1.5;
+  color: #111;
+}
+
+/* Headings */
+h1 { font-size: 20pt; color: #ED1C24; page-break-before: always; }
+h2 { font-size: 15pt; color: #ED1C24; }
+h3 { font-size: 12pt; }
+h4 { font-size: 10pt; }
+
+/* Avoid breaking inside these elements */
+table, figure, .admonition { page-break-inside: avoid; }
+
+/* Keep headings with the text that follows */
+h1, h2, h3, h4 { page-break-after: avoid; }
+
+/* Cover: no page break before first h1 */
+.cover-page + h1 { page-break-before: avoid; }
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 9pt;
+}
+th, td {
+  border: 1px solid #ccc;
+  padding: 4px 8px;
+}
+th { background-color: #f0f0f0; }
+
+/* Admonitions */
+.admonition {
+  border-left: 4px solid #ED1C24;
+  padding: 8px 12px;
+  margin: 12px 0;
+  background: #fafafa;
+}
+.admonition.warning  { border-color: #f08030; }
+.admonition.caution  { border-color: #e8b700; }
+.admonition.danger   { border-color: #ED1C24; }
+.admonition.note     { border-color: #448aff; }
+.admonition.tip      { border-color: #00bfa5; }
+
+/* Images centred */
+img { display: block; margin: 0 auto; max-width: 100%; }
+
+/* Hide nav/header/footer chrome — print/PDF only, never in browser */
+@media print {
+  .md-header, .md-sidebar, .md-footer,
+  .md-nav, .headerlink { display: none !important; }
+}

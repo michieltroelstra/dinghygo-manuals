@@ -1,0 +1,165 @@
+/* DinghyGo brand font */
+body, .md-typeset {
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+/* ── Colour palette: keep red as primary for nav/sidebar ──── */
+:root {
+  --md-primary-fg-color:        #ED1C24;
+  --md-primary-fg-color--light: #f55;
+  --md-primary-fg-color--dark:  #c0141b;
+  --md-accent-fg-color:         #ED1C24;
+}
+
+/* ── Header only: white background, dark text ────────────────
+   Scoped variables override Material's header colours only;
+   the sidebar continues to use the red primary above.        */
+.md-header {
+  --md-primary-fg-color:        #ffffff;
+  --md-primary-fg-color--light: #f8f8f8;
+  --md-primary-bg-color:        #222222;
+  --md-primary-bg-color--light: #555555;
+  background-color: #ffffff !important;
+  color: #222222 !important;
+  border-bottom: 1px solid #e0e0e0;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* All text elements inside the header */
+.md-header *,
+.md-header__title,
+.md-header__topic,
+.md-header__ellipsis {
+  color: #222222 !important;
+}
+
+/* Icon buttons (hamburger, search) */
+.md-header .md-header__button {
+  color: #444444 !important;
+}
+.md-header .md-header__button:hover {
+  color: #ED1C24 !important;
+}
+
+/* Search box */
+.md-search__input {
+  background-color: #f0f0f0 !important;
+  color: #222222 !important;
+}
+.md-search__input::placeholder {
+  color: #888 !important;
+}
+
+/* Logo: original colours on white — no inversion */
+.md-header .md-logo img {
+  filter: none;
+}
+
+/* Specs table section header rows */
+.md-typeset table.specs-table tr.section-header td {
+  background-color: #f0f0f0;
+  font-weight: bold;
+}
+
+/* ── Cover page ─────────────────────────────────────────── */
+.cover-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.cover-logo {
+  width: 300px;
+  max-width: 80%;
+  margin-bottom: 32px;
+}
+
+.cover-title {
+  font-size: 2.4rem;
+  font-weight: bold;
+  color: #111;
+  letter-spacing: 0.02em;
+  margin-bottom: 12px;
+}
+
+.cover-models {
+  font-size: 1.05rem;
+  color: #555;
+  margin-bottom: 32px;
+  letter-spacing: 0.05em;
+}
+
+.cover-footer {
+  font-size: 0.85rem;
+  color: #999;
+  border-top: 1px solid #ddd;
+  padding-top: 16px;
+  width: 260px;
+  margin-bottom: 32px;
+}
+
+.cover-boat {
+  width: 380px;
+  max-width: 85%;
+}
+
+/* ── Contents page ──────────────────────────────────────── */
+.md-typeset .contents-toc h2 {
+  border-bottom: 2px solid #ED1C24;
+  padding-bottom: 4px;
+  margin-top: 2rem;
+}
+
+/* Hide the page H1 on cover */
+.cover-page ~ h1 { display: none; }
+article:has(.cover-page) h1 { display: none; }
+
+/* ── Custom CAUTION admonition (yellow) ─────────────────── */
+:root {
+  --md-admonition-icon--caution: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 14H11V9H13M13 18H11V16H13M1 21H23L12 2L1 21Z"/></svg>');
+}
+.md-typeset .admonition.caution,
+.md-typeset details.caution {
+  border-color: #e8b700;
+}
+.md-typeset .admonition.caution > .admonition-title,
+.md-typeset details.caution > summary {
+  background-color: rgba(232, 183, 0, 0.12);
+}
+.md-typeset .admonition.caution > .admonition-title::before,
+.md-typeset details.caution > summary::before {
+  background-color: #e8b700;
+  -webkit-mask-image: var(--md-admonition-icon--caution);
+  mask-image: var(--md-admonition-icon--caution);
+}
+
+/* ── Sidebar header stays red (uses global primary) ─────────── */
+.md-nav--primary > .md-nav__title {
+  border-bottom: 1px solid #c0141b;
+}
+
+/* ── Hide heading permalink anchors ─────────────────────── */
+.md-typeset .headerlink {
+  display: none;
+}
+
+/* ── Centre all images and standalone italic captions ───── */
+.md-typeset p:has(> img) {
+  text-align: center;
+}
+.md-typeset p:has(> em:only-child) {
+  text-align: center;
+}
+
+/* ── 2-column legenda tables ─────────────────────────────── */
+.md-typeset .legenda-table td:first-child,
+.md-typeset .legenda-table td:nth-child(3) {
+  width: 2.5em;
+  font-weight: bold;
+  white-space: nowrap;
+  padding-right: 4px;
+}
