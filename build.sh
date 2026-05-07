@@ -30,6 +30,10 @@ mkdocs build -f mkdocs_EN.yml -d "../../$OUTPUT_DIR/en"
 echo "Building DE site..."
 mkdocs build -f mkdocs_DE.yml -d "../../$OUTPUT_DIR/de"
 
+# Build Dutch site → public/nl/
+echo "Building NL site..."
+mkdocs build -f mkdocs_NL.yml -d "../../$OUTPUT_DIR/nl"
+
 cd ../..
 
 # Root redirect → /en/ (default language)
