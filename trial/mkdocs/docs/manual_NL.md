@@ -902,20 +902,22 @@ Verhoogde uitlaatemissies (koolwaterstoffen) veroorzaken verontreiniging van wat
 
 ## Bijlage Instructievideo's
 
-1. [Uitpakken tassen (0:49 min)](https://www.youtube.com/watch?v=zxRh_Q_bZgk)
-2. [Opblazen (1:39 min)](https://www.youtube.com/watch?v=oUOsj_yCgS0)
-3. [Monteren (2:42 min)](https://www.youtube.com/watch?v=gg9_5FmfOgU)
-4. [Installeren (1:32 min)](https://www.youtube.com/watch?v=w_W0ky6Qbvc)
-5. [Optuigen (2:42 min)](https://www.youtube.com/watch?v=_40ACnecYRE)
-6. [Optuigen fok (2:15 min)](https://www.youtube.com/watch?v=xHW386UeXBk)
-7. [Rif aanbrengen (0:48 min)](https://www.youtube.com/watch?v=bDZj2TI22kE)
-8. [Vaarklaar maken (0:43 min)](https://www.youtube.com/watch?v=4Nv_KuIP8kc)
-9. [Zwaardkast afdichten (optioneel) (0:46 min)](https://www.youtube.com/watch?v=nhVdMYadaSI)
-10. [Aftuigen (2:21 min)](https://www.youtube.com/watch?v=y6SufQDWvW4)
-11. [Aftuigen fok (1:22 min)](https://www.youtube.com/watch?v=AsbNRM45bjU)
-12. [Deïnstalleren en leeg laten lopen (1:17 min)](https://www.youtube.com/watch?v=x4nvKOW4H1c)
-13. [Inpakken boot (2:35 min)](https://www.youtube.com/watch?v=h08_MPSnieg)
-14. [Inpakken sailkit (1:36 min)](https://www.youtube.com/watch?v=3k8-jmAr4XQ)
+| Nr. | Video | Duur |
+|-----|-------|------|
+| 1 | [Uitpakken tassen](https://www.youtube.com/watch?v=zxRh_Q_bZgk) | 0:49 min |
+| 2 | [Opblazen](https://www.youtube.com/watch?v=oUOsj_yCgS0) | 1:39 min |
+| 3 | [Monteren](https://www.youtube.com/watch?v=gg9_5FmfOgU) | 2:42 min |
+| 4 | [Installeren](https://www.youtube.com/watch?v=w_W0ky6Qbvc) | 1:32 min |
+| 5a | [Optuigen](https://www.youtube.com/watch?v=_40ACnecYRE) | 2:42 min |
+| 5b | [Optuigen fok](https://www.youtube.com/watch?v=xHW386UeXBk) | 2:15 min |
+| 5c | [Rif aanbrengen](https://www.youtube.com/watch?v=bDZj2TI22kE) | 0:48 min |
+| 6a | [Vaarklaar maken](https://www.youtube.com/watch?v=4Nv_KuIP8kc) | 0:43 min |
+| 6b | [Zwaardkast afdichten (optioneel)](https://www.youtube.com/watch?v=nhVdMYadaSI) | 0:46 min |
+| 7a | [Aftuigen](https://www.youtube.com/watch?v=y6SufQDWvW4) | 2:21 min |
+| 7b | [Aftuigen fok](https://www.youtube.com/watch?v=AsbNRM45bjU) | 1:22 min |
+| 8 | [Deïnstalleren en leeg laten lopen](https://www.youtube.com/watch?v=x4nvKOW4H1c) | 1:17 min |
+| 9 | [Inpakken boot](https://www.youtube.com/watch?v=h08_MPSnieg) | 2:35 min |
+| 10 | [Inpakken sailkit](https://www.youtube.com/watch?v=3k8-jmAr4XQ) | 1:36 min |
 
 ## Bijlage Garantie
 
