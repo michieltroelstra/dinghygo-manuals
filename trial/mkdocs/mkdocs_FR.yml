@@ -1,0 +1,42 @@
+site_name: DinghyGo Manuel d'utilisation
+site_description: Manuel d'utilisation officiel pour les bateaux à voile gonflables DinghyGo
+site_author: Aquacrafts B.V.
+copyright: "© Aquacrafts B.V. — v5.0 mai 2026"
+
+extra:
+  generator: false
+
+extra_css:
+  - stylesheets/extra.css?v=2
+  - stylesheets/pdf.css?v=2
+
+theme:
+  name: material
+  logo: images/logo_black.png
+  favicon: images/logo_black.png
+  palette:
+    primary: custom
+    accent: custom
+  font:
+    text: false
+    code: false
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - content.tooltips
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - attr_list
+  - toc:
+      permalink: true
+      toc_depth: 4
+
+nav:
+  - Couverture: index_FR.md
+  - Table des matières: contents_FR.md
+  - Manuel d'utilisation: manual_FR.md
