@@ -5,9 +5,9 @@
 
 set -e
 
-MKDOCS_DIR="trial/mkdocs"
+MKDOCS_DIR="published/mkdocs"
 OUTPUT_DIR="public"
-TYPST_DIR="trial/typst"
+TYPST_DIR="published/typst"
 
 echo "=== DinghyGo Manuals build ==="
 

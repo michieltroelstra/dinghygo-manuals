@@ -125,7 +125,7 @@ De volgende termen zijn zeiltechnisch correct conform de bronhandleiding, maar v
 
 ## 7. Openstaande punten
 
-- **Typst PDF** (manual_NL.typ): ✅ Aangemaakt en gecompileerd (`trial/typst/manual_NL.pdf`, 3 MB). Bevat alle 6 hoofdstukken + 4 bijlagen, NL veiligheidslabels, correcte terminologie, video-bijlage met 5a-7b nummering.
+- **Typst PDF** (manual_NL.typ): ✅ Aangemaakt en gecompileerd (`published/typst/manual_NL.pdf`, 3 MB). Bevat alle 6 hoofdstukken + 4 bijlagen, NL veiligheidslabels, correcte terminologie, video-bijlage met 5a-7b nummering.
 - **Git push**: ✅ Gedaan (meerdere commits gepusht naar `michieltroelstra/dinghygo-manuals`, main branch).
 - **GitHub webhook**: ✅ Geregistreerd in GitHub repo settings → auto-deploy actief. Webhook-URL: `http://178.104.112.195:8000/webhooks/source/github/events/manual`
 

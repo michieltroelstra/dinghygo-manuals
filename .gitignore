@@ -1,5 +1,5 @@
 # MkDocs build output — regenerated on deploy, never commit
-trial/mkdocs/site/
+published/mkdocs/site/
 
 # Typst temp files
 *.typst-backup
@@ -13,5 +13,5 @@ __pycache__/
 *.pyc
 
 # Scratch / work files
-trial/betriebsanleitung_2020_extracted.txt
-trial/mkdocs/docs/manual-old.md
+published/betriebsanleitung_2020_extracted.txt
+published/mkdocs/docs/manual-old.md

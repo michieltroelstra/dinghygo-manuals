@@ -53,10 +53,10 @@ Replace `XX` with the language code (e.g. `NL`, `FR`, `ES`):
 
 | File | Description |
 |---|---|
-| `trial/mkdocs/docs/index_XX.md` | Cover page — translate title, footer date |
-| `trial/mkdocs/docs/contents_XX.md` | Table of contents — translate all chapter/section titles |
-| `trial/mkdocs/docs/manual_XX.md` | Full manual — translate all content, admonitions, legenda tables |
-| `trial/typst/manual_XX.typ` | Typst PDF source — mirrors `manual.typ`, translated content |
+| `published/mkdocs/docs/index_XX.md` | Cover page — translate title, footer date |
+| `published/mkdocs/docs/contents_XX.md` | Table of contents — translate all chapter/section titles |
+| `published/mkdocs/docs/manual_XX.md` | Full manual — translate all content, admonitions, legenda tables |
+| `published/typst/manual_XX.typ` | Typst PDF source — mirrors `manual.typ`, translated content |
 
 **Key settings to change in `manual_XX.typ`:**
 - `#set text(lang: "XX")` — for correct hyphenation (e.g. `"nl"`, `"fr"`, `"es"`)
@@ -75,7 +75,7 @@ Replace `XX` with the language code (e.g. `NL`, `FR`, `ES`):
 ---
 
 ### d. Compile PDF
-Run from the `trial/typst/` directory:
+Run from the `published/typst/` directory:
 
 ```bash
 /Users/Michiel/bin/typst compile \
@@ -83,7 +83,7 @@ Run from the `trial/typst/` directory:
   manual_XX.typ
 ```
 
-Output: `trial/typst/manual_XX.pdf`
+Output: `published/typst/manual_XX.pdf`
 
 Check the compiled PDF in Preview for:
 - Correct hyphenation
@@ -95,7 +95,7 @@ Check the compiled PDF in Preview for:
 ---
 
 ### e. Create MkDocs config
-Create `trial/mkdocs/mkdocs_XX.yml` by copying `mkdocs_EN.yml` and updating:
+Create `published/mkdocs/mkdocs_XX.yml` by copying `mkdocs_EN.yml` and updating:
 
 ```yaml
 site_name: DinghyGo [Title in target language]
@@ -131,7 +131,7 @@ nav:
 ---
 
 ### f. Review checklist
-Create `trial/improvements_XX.md` — same format as `improvements_DE.md`.
+Create `published/improvements_XX.md` — same format as `improvements_DE.md`.
 
 This document lists:
 - Grammar and address form issues found during translation
@@ -150,13 +150,13 @@ Once Michiel has approved the translation:
 
 ```bash
 cd "/Users/Michiel/Documents/Neoventures B.V./AI/DinghyGo_Manuals"
-git add trial/mkdocs/docs/manual_XX.md
-git add trial/mkdocs/docs/index_XX.md
-git add trial/mkdocs/docs/contents_XX.md
-git add trial/mkdocs/mkdocs_XX.yml
-git add trial/typst/manual_XX.typ
-git add trial/typst/manual_XX.pdf
-git add trial/improvements_XX.md
+git add published/mkdocs/docs/manual_XX.md
+git add published/mkdocs/docs/index_XX.md
+git add published/mkdocs/docs/contents_XX.md
+git add published/mkdocs/mkdocs_XX.yml
+git add published/typst/manual_XX.typ
+git add published/typst/manual_XX.pdf
+git add published/improvements_XX.md
 git commit -m "Add XX language manual (vX.0)"
 git push
 ```
@@ -168,7 +168,7 @@ Coolify auto-deploys → `manual.dinghygo.com/XX/` goes live.
 ## Files created per language (summary)
 
 ```
-trial/
+published/
 ├── mkdocs/
 │   ├── mkdocs_XX.yml              ← MkDocs config (new)
 │   └── docs/
