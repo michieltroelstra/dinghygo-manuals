@@ -7,6 +7,7 @@ set -e
 
 MKDOCS_DIR="trial/mkdocs"
 OUTPUT_DIR="public"
+TYPST_DIR="trial/typst"
 
 echo "=== DinghyGo Manuals build ==="
 
@@ -34,7 +35,24 @@ mkdocs build -f mkdocs_DE.yml -d "../../$OUTPUT_DIR/de"
 echo "Building NL site..."
 mkdocs build -f mkdocs_NL.yml -d "../../$OUTPUT_DIR/nl"
 
+# Build French site → public/fr/
+echo "Building FR site..."
+mkdocs build -f mkdocs_FR.yml -d "../../$OUTPUT_DIR/fr"
+
+# Build Spanish site → public/es/
+echo "Building ES site..."
+mkdocs build -f mkdocs_ES.yml -d "../../$OUTPUT_DIR/es"
+
 cd ../..
+
+# Copy PDF manuals → public/downloads/
+echo "Copying PDF manuals..."
+mkdir -p "$OUTPUT_DIR/downloads"
+cp "$TYPST_DIR/manual.pdf"    "$OUTPUT_DIR/downloads/DinghyGo_Orca_Manual_EN.pdf"
+cp "$TYPST_DIR/manual_DE.pdf" "$OUTPUT_DIR/downloads/DinghyGo_Orca_Manual_DE.pdf"
+cp "$TYPST_DIR/manual_NL.pdf" "$OUTPUT_DIR/downloads/DinghyGo_Orca_Manual_NL.pdf"
+cp "$TYPST_DIR/manual_FR.pdf" "$OUTPUT_DIR/downloads/DinghyGo_Orca_Manual_FR.pdf"
+cp "$TYPST_DIR/manual_ES.pdf" "$OUTPUT_DIR/downloads/DinghyGo_Orca_Manual_ES.pdf"
 
 # Root redirect → /en/ (default language)
 cat > "$OUTPUT_DIR/index.html" << 'EOF'
