@@ -904,20 +904,20 @@ Erhöhte Abgasemissionen (Kohlenwasserstoffe) verursachen die Verschmutzung von 
 
 | Nr. | Video | Dauer |
 |-----|-------|-------|
-| 1 | [Auspacken Taschen](https://youtu.be/PpUNTYxSFDY) | 0:49 Min. |
-| 2 | [Aufblasen](https://youtu.be/L0XLs3TuPF4) | 1:39 Min. |
-| 3 | [Montieren](https://youtu.be/bTWhhxxB430) | 2:42 Min. |
-| 4 | [Installieren](https://youtu.be/MeQv0KGgGLo) | 1:32 Min. |
-| 5a | [Auftakeln](https://youtu.be/kEO_EhRJCVo) | 2:42 Min. |
-| 5b | [Auftakeln Fock](https://youtu.be/D9vflH5E6gI) | 2:16 Min. |
-| 5c | [Reff anwenden](https://youtu.be/W3n8JRRiW9A) | 0:48 Min. |
-| 6a | [Fertig machen zum Segeln](https://youtu.be/yxdSrZQdeM0) | 0:43 Min. |
-| 6b | [Schwertkasten abdichten — optional](https://youtu.be/cKa4QFNhdGw) | 0:46 Min. |
-| 7a | [Abtakeln](https://youtu.be/1hIpWgxyzcg) | 2:21 Min. |
-| 7b | [Abtakeln Fock](https://youtu.be/2on8ob-2a3c) | 1:22 Min. |
-| 8 | [Deinstallieren und Luft ablassen](https://youtu.be/gU4sUKu-yZE) | 1:17 Min. |
-| 9 | [Einpacken Boot](https://youtu.be/LqRoUNQhI9E) | 2:35 Min. |
-| 10 | [Einpacken Besegelung](https://youtu.be/-kml_pO87J0) | 1:36 Min. |
+| 1 | [Auspacken Taschen](https://www.youtube.com/watch?v=zxRh_Q_bZgk) | 0:49 Min. |
+| 2 | [Aufblasen](https://www.youtube.com/watch?v=oUOsj_yCgS0) | 1:39 Min. |
+| 3 | [Montieren](https://www.youtube.com/watch?v=gg9_5FmfOgU) | 2:42 Min. |
+| 4 | [Installieren](https://www.youtube.com/watch?v=w_W0ky6Qbvc) | 1:32 Min. |
+| 5a | [Auftakeln](https://www.youtube.com/watch?v=_40ACnecYRE) | 2:42 Min. |
+| 5b | [Auftakeln Fock](https://www.youtube.com/watch?v=xHW386UeXBk) | 2:16 Min. |
+| 5c | [Reff anwenden](https://www.youtube.com/watch?v=bDZj2TI22kE) | 0:48 Min. |
+| 6a | [Fertig machen zum Segeln](https://www.youtube.com/watch?v=4Nv_KuIP8kc) | 0:43 Min. |
+| 6b | [Schwertkasten abdichten — optional](https://www.youtube.com/watch?v=nhVdMYadaSI) | 0:46 Min. |
+| 7a | [Abtakeln](https://www.youtube.com/watch?v=y6SufQDWvW4) | 2:21 Min. |
+| 7b | [Abtakeln Fock](https://www.youtube.com/watch?v=AsbNRM45bjU) | 1:22 Min. |
+| 8 | [Deinstallieren und Luft ablassen](https://www.youtube.com/watch?v=x4nvKOW4H1c) | 1:17 Min. |
+| 9 | [Einpacken Boot](https://www.youtube.com/watch?v=h08_MPSnieg) | 2:35 Min. |
+| 10 | [Einpacken Besegelung](https://www.youtube.com/watch?v=3k8-jmAr4XQ) | 1:36 Min. |
 
 ## Anhang Garantie
 
