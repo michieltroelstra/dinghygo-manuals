@@ -37,6 +37,6 @@ markdown_extensions:
       toc_depth: 4
 
 nav:
-  - Umschlag: index_DE.md
-  - Inhaltsverzeichnis: contents_DE.md
-  - Betriebsanleitung: manual_DE.md
+  - Umschlag: index.md
+  - Inhaltsverzeichnis: contents.md
+  - Betriebsanleitung: manual.md

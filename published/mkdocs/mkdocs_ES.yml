@@ -37,6 +37,6 @@ markdown_extensions:
       toc_depth: 4
 
 nav:
-  - Portada: index_ES.md
-  - Índice: contents_ES.md
-  - Manual de usuario: manual_ES.md
+  - Portada: index.md
+  - Índice: contents.md
+  - Manual de usuario: manual.md

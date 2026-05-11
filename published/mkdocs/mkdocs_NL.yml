@@ -37,6 +37,6 @@ markdown_extensions:
       toc_depth: 4
 
 nav:
-  - Omslag: index_NL.md
-  - Inhoudsopgave: contents_NL.md
-  - Gebruiksaanwijzing: manual_NL.md
+  - Omslag: index.md
+  - Inhoudsopgave: contents.md
+  - Gebruiksaanwijzing: manual.md

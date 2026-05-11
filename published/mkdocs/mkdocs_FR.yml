@@ -37,6 +37,6 @@ markdown_extensions:
       toc_depth: 4
 
 nav:
-  - Couverture: index_FR.md
-  - Table des matières: contents_FR.md
-  - Manuel d'utilisation: manual_FR.md
+  - Couverture: index.md
+  - Table des matières: contents.md
+  - Manuel d'utilisation: manual.md
