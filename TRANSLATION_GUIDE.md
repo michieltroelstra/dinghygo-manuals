@@ -79,7 +79,7 @@ Run from the `published/typst/` directory:
 
 ```bash
 /Users/Michiel/bin/typst compile \
-  --root "/Users/Michiel/Documents/Neoventures B.V./AI/DinghyGo_Manuals" \
+  --root "/Users/Michiel/Developer/DinghyGo_Manuals" \
   manual_XX.typ
 ```
 
@@ -149,7 +149,7 @@ This document lists:
 Once Michiel has approved the translation:
 
 ```bash
-cd "/Users/Michiel/Documents/Neoventures B.V./AI/DinghyGo_Manuals"
+cd "/Users/Michiel/Developer/DinghyGo_Manuals"
 git add published/mkdocs/docs/manual_XX.md
 git add published/mkdocs/docs/index_XX.md
 git add published/mkdocs/docs/contents_XX.md
