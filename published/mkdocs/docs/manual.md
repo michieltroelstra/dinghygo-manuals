@@ -909,6 +909,7 @@ Increased exhaust emissions (hydrocarbons) cause the pollution of water and air.
 | 3 | [Assembling](https://www.youtube.com/watch?v=gg9_5FmfOgU) | 2:42 min |
 | 4 | [Installing](https://www.youtube.com/watch?v=w_W0ky6Qbvc) | 1:32 min |
 | 5a | [Rigging](https://www.youtube.com/watch?v=_40ACnecYRE) | 2:42 min |
+| 5a-v2 | [Rigging — top batten v2 (some Orca 325 sails)](https://youtu.be/5-ODTi4_Df8) | ~1 min |
 | 5b | [Rigging jib](https://www.youtube.com/watch?v=xHW386UeXBk) | 2:16 min |
 | 5c | [Apply reef](https://www.youtube.com/watch?v=bDZj2TI22kE) | 0:48 min |
 | 6a | [Preparing for launch](https://www.youtube.com/watch?v=4Nv_KuIP8kc) | 0:43 min |

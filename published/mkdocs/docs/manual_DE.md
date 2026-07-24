@@ -909,6 +909,7 @@ Erhöhte Abgasemissionen (Kohlenwasserstoffe) verursachen die Verschmutzung von 
 | 3 | [Montieren](https://www.youtube.com/watch?v=gg9_5FmfOgU) | 2:42 Min. |
 | 4 | [Installieren](https://www.youtube.com/watch?v=w_W0ky6Qbvc) | 1:32 Min. |
 | 5a | [Auftakeln](https://www.youtube.com/watch?v=_40ACnecYRE) | 2:42 Min. |
+| 5a-v2 | [Auftakeln — obere Segellatte v2 (einige Orca 325-Segel)](https://youtu.be/1jhxI3mOdn4) | ~1 Min. |
 | 5b | [Auftakeln Fock](https://www.youtube.com/watch?v=xHW386UeXBk) | 2:16 Min. |
 | 5c | [Reff anwenden](https://www.youtube.com/watch?v=bDZj2TI22kE) | 0:48 Min. |
 | 6a | [Fertig machen zum Segeln](https://www.youtube.com/watch?v=4Nv_KuIP8kc) | 0:43 Min. |

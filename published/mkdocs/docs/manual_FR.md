@@ -909,6 +909,7 @@ _Remarque : les vidéos sont actuellement disponibles uniquement en anglais._
 | 3 | [Assemblage](https://www.youtube.com/watch?v=gg9_5FmfOgU) | 2:42 min |
 | 4 | [Installation](https://www.youtube.com/watch?v=w_W0ky6Qbvc) | 1:32 min |
 | 5a | [Gréement](https://www.youtube.com/watch?v=_40ACnecYRE) | 2:42 min |
+| 5a-v2 | [Gréement — latte de tête v2 (certaines voiles Orca 325, audio EN)](https://youtu.be/5-ODTi4_Df8) | ~1 min |
 | 5b | [Gréement du foc](https://www.youtube.com/watch?v=xHW386UeXBk) | 2:16 min |
 | 5c | [Prise de ris](https://www.youtube.com/watch?v=bDZj2TI22kE) | 0:48 min |
 | 6a | [Préparation au départ](https://www.youtube.com/watch?v=4Nv_KuIP8kc) | 0:43 min |

@@ -907,6 +907,7 @@ _Nota: los vídeos están disponibles actualmente solo en inglés._
 | 3 | [Montaje](https://www.youtube.com/watch?v=gg9_5FmfOgU) | 2:42 min |
 | 4 | [Instalación](https://www.youtube.com/watch?v=w_W0ky6Qbvc) | 1:32 min |
 | 5a | [Aparejado](https://www.youtube.com/watch?v=_40ACnecYRE) | 2:42 min |
+| 5a-v2 | [Aparejado — sable superior v2 (algunas velas Orca 325, audio EN)](https://youtu.be/5-ODTi4_Df8) | ~1 min |
 | 5b | [Aparejado del foque](https://www.youtube.com/watch?v=xHW386UeXBk) | 2:16 min |
 | 5c | [Tomar rizos](https://www.youtube.com/watch?v=bDZj2TI22kE) | 0:48 min |
 | 6a | [Preparación para la salida](https://www.youtube.com/watch?v=4Nv_KuIP8kc) | 0:43 min |

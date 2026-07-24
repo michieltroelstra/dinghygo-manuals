@@ -909,6 +909,7 @@ Verhoogde uitlaatemissies (koolwaterstoffen) veroorzaken verontreiniging van wat
 | 3 | [Monteren](https://www.youtube.com/watch?v=gg9_5FmfOgU) | 2:42 min |
 | 4 | [Installeren](https://www.youtube.com/watch?v=w_W0ky6Qbvc) | 1:32 min |
 | 5a | [Optuigen](https://www.youtube.com/watch?v=_40ACnecYRE) | 2:42 min |
+| 5a-v2 | [Optuigen — bovenste zeillat v2 (sommige Orca 325-zeilen)](https://youtu.be/bxBLlF2xIfI) | ~1 min |
 | 5b | [Optuigen fok](https://www.youtube.com/watch?v=xHW386UeXBk) | 2:15 min |
 | 5c | [Rif aanbrengen](https://www.youtube.com/watch?v=bDZj2TI22kE) | 0:48 min |
 | 6a | [Vaarklaar maken](https://www.youtube.com/watch?v=4Nv_KuIP8kc) | 0:43 min |
