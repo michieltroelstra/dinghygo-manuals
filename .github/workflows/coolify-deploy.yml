@@ -1,0 +1,45 @@
+name: Trigger Coolify deploy
+
+# Fires on every push to main. Notifies Coolify to rebuild the mkdocs
+# site + serve at manual.dinghygo.com. Prevents the recurring "I edited
+# the manual but the live site still shows the old version" problem —
+# before this workflow, last deploy was 11-may-2026 despite active
+# commits (found + triggered manually on 2026-07-24).
+#
+# SETUP (one-time, Michiel):
+#   gh secret set COOLIFY_API_TOKEN --repo michieltroelstra/dinghygo-manuals
+#   # then paste the token value (from Keychain: coolify-api / dinghygo-sandbox)
+#
+# Once the secret is set, every push to main auto-deploys within ~30s
+# (mkdocs build ~1 min + Coolify container swap ~30s = ~90s end-to-end).
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:  # allow manual trigger from Actions UI
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Coolify redeploy
+        env:
+          COOLIFY_TOKEN: ${{ secrets.COOLIFY_API_TOKEN }}
+          # Manuals app UUID (dinghygo-manuals on Hetzner CPX32)
+          APP_UUID: s2w9jmhns4kxn6h9hq05l18v
+          COOLIFY_URL: http://49.13.72.89:8000
+        run: |
+          if [ -z "$COOLIFY_TOKEN" ]; then
+            echo "::error::COOLIFY_API_TOKEN secret is not set — see workflow file header for setup"
+            exit 1
+          fi
+          RESPONSE=$(curl -sS -w "\nHTTP_STATUS:%{http_code}" -X POST \
+            -H "Authorization: Bearer $COOLIFY_TOKEN" \
+            "$COOLIFY_URL/api/v1/deploy?uuid=$APP_UUID&force=false")
+          echo "$RESPONSE"
+          HTTP_STATUS=$(echo "$RESPONSE" | grep "HTTP_STATUS:" | cut -d: -f2)
+          if [ "$HTTP_STATUS" != "200" ]; then
+            echo "::error::Coolify deploy trigger failed with HTTP $HTTP_STATUS"
+            exit 1
+          fi
+          echo "::notice::Deploy queued — check Coolify UI or manual.dinghygo.com in ~90s"
