@@ -1,6 +1,11 @@
 # MkDocs build output — regenerated on deploy, never commit
 published/mkdocs/site/
 
+# build.sh output dir — it starts with `rm -rf public/` and rebuilds all 5
+# language sites from published/mkdocs + published/typst on every deploy.
+# 366 files / 44 MB of it sat here untracked from Apr–Jul 2026.
+public/
+
 # Typst temp files
 *.typst-backup
 
