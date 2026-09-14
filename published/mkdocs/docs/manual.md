@@ -299,9 +299,9 @@ The boat valves are designed especially for safe and comfortable use. The flat v
 
 #### 3.2.1 Using the valves
 
-* Remove the outer cap. The valve is closed when the middle screw knob is on top.
-* To open the valve put your finger on the centre of the valve and press down the centre screw button. Turn your finger ¼ clockwise until the knob locks.
-* To close the valve, press the knob and turn your finger ¼ clockwise until the knob comes up.
+* Remove the outer cap. The valve is closed when the knob in the centre is in the **up** position.
+* To **open** the valve, press the centre knob down and turn it ¼ turn to the **right** (clockwise) until it locks in the down position — air can now flow freely through the valve.
+* To **close** the valve, press the knob down and turn it ¼ turn to the **left** (counter-clockwise); a spring pushes the knob back **up**, sealing the valve.
 
 #### 3.2.2 Pump connections
 
@@ -383,7 +383,7 @@ If inflation is carried out in the correct order, the boat will have the correct
 
 Step 3: Seal all the valves by inserting the valve caps and turning them clockwise.
 
-☝︎ Never exceed the values on the builder's plate and valve tags! Inflate the boat floats to 0.25 bar = 3.6 psi = 25 kPa and the floor to 0.19 bar = 2.75 psi = 19 kPa (tolerance ±20%). Inflate the Orca floor to 0.7 bar = 10.2 psi = 70 kPa.
+☝︎ Never exceed the values on the builder's plate and valve tags! Inflate the boat floats (hull tubes) to 0.25 bar = 3.6 psi = 25 kPa and the Orca floor to 0.7 bar = 10.2 psi = 70 kPa (tolerance ±20%).
 
 ☝︎ Do not use mechanical compressors to inflate your boat. The included hand pump is adjusted to create the perfect pressure for your boat. If preferred, you could use an electric pump that can be provided as an option by your DinghyGo supplier. Use the correct pressure settings to properly facilitate inflation.
 
@@ -404,14 +404,16 @@ The sail kit bag contains the complete sailing equipment. Lay out all sail compo
 
 #### 3.8.1 Installation of the mast step board, seat and bridle
 
-* Partially inflate the bow and side tubes (read the section "inflating the hull tubes”), so that they have some shape but are not fully up to pressure. Do not inflate the floor yet.
+* The mast step board slides into position most easily before the bow and floor are fully inflated.
+* Partially inflate the bow and side tubes (read the section "inflating the hull tubes”), so that they have some shape but are not yet at full pressure.
 * Slide the mast step board in under the tubes until it locates in front of the mast step board stoppers on the floor (at front of boat).
+* Partially inflate the floor as well, up to max. 0.25 bar, to help hold the mast step board firmly against the stoppers.
 * Slide the seat / daggerboard case onto the seat cords on the tubes, until it is located directly above the daggerboard case opening in the bottom.
 * Tie one end of the bridle onto the transom eye and attach the other end to the other transom eye with the carabiner.
 
 #### 3.8.2 Inflation of the boat
 
-* Inflate the hull tubes and floor completely (read the paragraph "inflating the hull tubes" and "inflating the inflatable floor"), in such a way that the mast step board and seat / daggerboard case are firmly clamped.
+* Inflate the hull tubes to their final pressure (0.25 bar) and the floor to its final pressure (0.70 bar) (read the paragraph "inflating the hull tubes" and "inflating the inflatable floor"), making sure the mast step board and seat / daggerboard case stay firmly clamped in place as pressure builds.
 * Then attach the flexible part of the daggerboard case with the Velcro on the bottom of the seat / daggerboard case.
 * Attach the oars (read the paragraph “installation of the oars").
 
