@@ -470,8 +470,8 @@ This manual does not provide sailing instructions and assumes that the operator 
 * Take down the jib by pulling the halyard from cleat, lower the jib and release jib head from halyard carabiner. Detach the carabiner from halyard loop, pull halyard from mast jib ring and bow tube ring (Orca 375).
 * Disconnect the mainsheet block from the bridle by opening the snap shackle.
 * Detach the supporting shrouds from both sides of the tube D-rings by releasing the shrouds from the shroud cleats.
-* Raise the sailing rig out of the mast step straight through the deck collar.
-* Release the outhaul and downhaul and detach the boom from the mast.
+* Raise the sailing rig out of the mast step straight through the deck collar — the mast, boom and sail come out together as one unit, similar to a windsurf rig.
+* Release the outhaul and downhaul, undo the two Velcro straps that attach the sail to the boom, and detach the boom from the mast. (If preferred, the boom can instead be detached — release the same outhaul, downhaul and Velcro straps first — while the rig is still stepped in the boat, so mast and boom come apart separately rather than as one unit.)
 * Take the boom sections apart.
 * Remove the battens from the sail, detach the supporting shrouds from the mast by releasing the shroud shackle and pull the mast sleeve off of the mast.
 * Take the mast sections apart.
@@ -508,6 +508,8 @@ The DinghyGo boats are equipped with divisible oars, oarlocks and a combined row
 * To install the oars in the oarlocks, hold the oars parallel to the tubes with the blade facing forwards (not backwards, they won’t go in) and insert the metal fastening pin into the oarlock as deep as possible.
 * Then, turn the oars with the blades outward, so they are secured in the oarlock and can be used correctly.
 * When the oars are not used they can be stored along the tubes, located by the oarlocks and the elasticated oar holders at the aft end of the side tubes.
+
+☝︎ The oars are made of hollow aluminium tube and **do not float** — if a tube fills with water it will sink. Keep them secured in the oarlocks or oar holders whenever the boat is moving, especially in rough conditions or during a capsize.
 
 ☝︎ Take local conditions into account before treading the water with your DinghyGo, whether it’s with the sail kit, oars, or an outboard motor. It is possible that the propulsive power of the boat is not strong enough to sail against a strong tide or river flow.
 
